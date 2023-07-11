@@ -92,4 +92,5 @@ Aqui estão algumas das minhas habilidades técnicas como arquiteto de software 
   <h3>Redes Sociais:</h3> 
   <a href="https://instagram.com/gisiona" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gisiona" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://youtube.com/@gisionacosta8114" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
 </div>
