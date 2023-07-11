@@ -17,9 +17,13 @@ Here are some ideas to get you started:
 <div>
 Profissional com mais de 9 anos de atuação no mercado de desenvolvimento de software para os mais diversos segmentos. Destaco os mais importante nas áreas de previdência privada, seguradoras, bancos e área da saúde veterinária e petshop.
 
+  ##
+
 <h3>Formações: </h3>
-🎓 Graduado em Sistemas de Informação <br>
-🎓 Pós-graduado em Arquitetura de Soluções Pela FIAP
+🎓 Pós-graduado em Arquitetura de Soluções Pela FIAP <br>
+🎓 Graduado em Sistemas de Informação 
+
+  ##
 
 <h3>Certificações: </h3>
 📄 AWS Certified Cloud Practitioner <br>
@@ -30,7 +34,9 @@ Profissional com mais de 9 anos de atuação no mercado de desenvolvimento de so
 📄 Microsoft Exam 70-480: Programming in HTML5 with JavaScript and CSS3 <br>
 📄 Microsoft Exam 70-483: Programming in C# <br>
 📄 CertiProf DevOps Essentials Professional Certificate - DEPC® <br>
-📄 CertiProf Scrum Foundation Professional Certificate - SFPC™ <br>
+📄 CertiProf Scrum Foundation Professional Certificate - SFPC™ 
+
+  ##
 
 <h3>Habilidades Técnicas </h3>
 Aqui estão algumas das minhas habilidades técnicas como arquiteto de software e desenvolvimento de software: <br>
@@ -56,13 +62,33 @@ Aqui estão algumas das minhas habilidades técnicas como arquiteto de software 
 📫 Modelagem de Dados (Lógico e Físico) com a ferramenta PowerDesigner. <br>
 📫 Gestão de projetos complexos. <br>
 📫 Entrega de soluções. <br>
-</div> <br>
+</div> 
 
+  ##
 
 <h3>Contribuições GitHub:</h3>
+ <div>
+  <a href="https://github.com/gisiona">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gisiona&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisiona&layout=compact&langs_count=7&theme=dark"/>
+</div>
+    
+  ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gisiona&show_icons=true&theme=radical)
+<h3>Tecnologias:</h3> 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Java" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="CSharp" height="40" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="Pythoh" height="40" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;
+  <img align="center" alt="Crypto-Docker" height="40" width="auto"" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">&nbsp;
+  <img align="center" alt="KB8" height="40" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg">&nbsp;
+  <img align="center" alt="KB8" height="40" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">&nbsp;
+  <img align="center" alt="Terraform" height="40" width="auto" src="https://w7.pngwing.com/pngs/274/556/png-transparent-hashicorp-terraform-logo-business-glassdoor-business-angle-service-rectangle.png">&nbsp;
+  <img align="center" alt="AWS" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">&nbsp;
+</div>
 
+  ##
+  
 <div> 
   <h3>Certificações & Badges:</h3> 
   <a href="https://www.credly.com/badges/b1bb3359-9c89-45cf-981b-74f8d0821c45/public_url" target="_blank">
@@ -86,7 +112,7 @@ Aqui estão algumas das minhas habilidades técnicas como arquiteto de software 
   </a>
 </div>
 
-
+  ##
 
 <div> 
   <h3>Redes Sociais:</h3> 
