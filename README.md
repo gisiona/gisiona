@@ -39,7 +39,6 @@ Profissional com mais de 9 anos de atuação no mercado de desenvolvimento de so
   ##
 
 <h3>Habilidades Técnicas </h3>
-Aqui estão algumas das minhas habilidades técnicas como arquiteto de software e desenvolvimento de software: <br>
 📫 Arquitetura de Microservices <br>
 📫 Design Patterns. <br>
 📫 Arquitetura em Nuvem (Cloud Architecture). <br>
