@@ -74,7 +74,7 @@ Profissional com mais de 9 anos de atuação no mercado de desenvolvimento de so
     
   ##
 
-<h3>Tecnologias:</h3> 
+<h3>Tecnologias & Ferramentas:</h3> 
 <div style="display: inline_block">
   <img align="center" alt="CSharp" height="40" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">&nbsp;
   <img align="center" alt="Java" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">&nbsp;
