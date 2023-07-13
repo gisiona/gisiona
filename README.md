@@ -97,8 +97,8 @@ Profissional com mais de 9 anos de atuação no mercado de desenvolvimento de so
 ## 
 
 <h3>Formações: </h3>
-🎓 Pós-graduado em Arquitetura de Soluções Pela FIAP <br>
-🎓 Graduado em Sistemas de Informação 
+🎓 MBA em Arquitetura de Soluções Pela FIAP <br>
+🎓 Graduado em Sistemas de Informação Pela UNIP
 
   ##
 
