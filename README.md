@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 ### Olá, Eu Sou Gisiona Costa 👋
-<div>
-Profissional com mais de 9 anos de atuação no mercado de desenvolvimento de software para os mais diversos segmentos. Destaco os mais importante nas áreas de previdência privada, seguradoras, bancos e área da saúde veterinária e petshop.
+<div>  
+Profissional com mais de 10 anos trabalhando com gerenciamento de projetos, arquiteturas de soluções escaláveis, desenvolvimento de sistemas, CI/CD, microsserviços, arquitetura serverless e containers para os mais diversos segmentos. Destaco os mais importante nas áreas de previdência privada, seguradoras, bancos e área da saúde veterinária e petshop. Atualmente trabalho ajudando o Itaú Unibanco em seu processo de modernização dos seus serviços de negócios na jornada para a nuvem AWS.
 
   ##
 
